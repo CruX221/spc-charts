@@ -15,5 +15,4 @@ Every section is structures as concept code for math code for plotting and savin
   - MR chart
 ### 4 Process Capability Charts
   - $C_{p} Chart $
-  - $C_{pk} Chart $
-\n I am showing git to nithik
+  - $C_{pk} Chart $  I am showing git to nithik
